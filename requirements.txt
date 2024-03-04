@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+pyspark
+delta-spark
+prefect
+requests
+datetime
+wheel
+setuptools
+acryl-datahub
