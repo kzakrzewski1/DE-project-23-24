@@ -1,0 +1,55 @@
+currency_code,currency_name,country,alpha3
+AUD,Australian dollar,Australia,AUS
+ATS,Austrian schilling,Austria,AUT
+BEF,Belgian franc,Belgium,BEL
+CZK,Czech koruna,Czech Republic,CZE
+DKK,Danish krone,Denmark,DNK
+EEK,Estonian kroon,Estonia,EST
+FIM,Finnish markka,Finland,FIN
+FRF,French frank,France,FRA
+GRD,Greek drachma,Greece,GRC
+ESP,Spanish peseta,Spain,ESP
+NLG,Dutch guilder,Netherlands,NLD
+IEP,Irish pound,Ireland,IRL
+JPY,Japanese yen,Japan,JPN
+CAD,Canadian dollar,Canada,CAN
+LUF,Luxembourg franc,Luxembourg,LUX
+NOK,Norwegian krone,Norway,NOR
+PTE,Portuguese escudo,Portugal,PRT
+EUR,Euro,European Union,EUE
+USD,United States dollar,United States,USA
+CHF,Swiss franc,Switzerland,CHE
+SEK,Swedish krona,Sweden,SWE
+HUF,Hungarian forint,Hungary,HUN
+GBP,British pound,United Kingdom,GBR
+ITL,Italian lira,Italy,ITA
+XDR,Special drawing rights,IMF (for deletion),IMF
+CYP,Cypriot pound,Cyprus,CYP
+HKD,Hong Kong dollar,Hong Kong SAR,HKG
+LTL,Lithuanian litas,Lithuania,LTU
+LVL,Latvian lats,Latvia,LVA
+MTL,Maltese lira,Malta,MLT
+ZAR,South African rand,South Africa,ZAF
+RUB,Russian ruble,Russian Federation,RUS
+SKK,Slovak koruna,Slovak Republic,SVK
+SIT,Slovenian tolar,Slovenia,SVN
+UAH,Ukrainian hryvnia,Ukraine,UKR
+BGN,Bulgarian lev,Bulgaria,BGR
+RON,Romanian leu,Romania,ROU
+THB,Thai baht,Thailand,THA
+NZD,New Zealand dollar,New Zealand,NZL
+SGD,Singapore dollar,Singapore,SGP
+ISK,Icelandic krona,Iceland,ISL
+HRK,Croatian kuna,Croatia,HRV
+TRY,Turkish lira,"Türkiye, Republic of",TUR
+PHP,Philippine peso,Philippines,PHL
+MXN,Mexican peso,Mexico,MEX
+BRL,Brazilian real,Brazil,BRA
+MYR,Malaysian ringgit,Malaysia,MYS
+IDR,Indonesian rupiah,Indonesia,IDN
+KRW,South Korean won,"Korea, Republic of",KOR
+CNY,Chinese renminbi,"China, People's Republic of",CHN
+ILS,Israeli new shekel,Israel,ISR
+INR,Indian rupee,India,IND
+CLP,Chilean peso,Chile,CHL
+PLN,Polish zloty,Poland,POL
